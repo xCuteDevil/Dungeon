@@ -1,1 +1,1 @@
-hi blyat
+hi
